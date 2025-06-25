@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "custom": true,
+      "palette": [
+        {
+          "slug": "primary",
+          "color": "#0073aa",
+          "name": "Primary"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#ffffff",
+      "text": "#333333"
+    }
+  }
+}
