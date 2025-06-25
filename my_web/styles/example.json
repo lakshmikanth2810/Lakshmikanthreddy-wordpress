@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "Example Style",
+  "settings": {
+    "color": {
+      "background": "#f0f0f0",
+      "text": "#000000"
+    }
+  }
+}
